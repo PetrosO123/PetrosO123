@@ -1,9 +1,11 @@
-### Hi there 👋, I'm Petros <hr/>
+## Hi there, I'm Petros 👋 <hr/>
+
 - 🖥️ I'm a language agnostic full-stack web developer
 - 🔭 I'm currently working on Svolte, a component data visualizer and time-travel debugging tool for Svelte applications
 - 🧩 I love solving puzzles, 📚 reading South American Literature, and 🪴 cultivating plants in my garden 
+<br/>
 
-### 💻 Technologies <hr/>
+## 📱 Technologies <hr/>
 
 ![Svelte](https://img.shields.io/badge/Svelte-000000?style=for-the-badge&logo=svelte&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
