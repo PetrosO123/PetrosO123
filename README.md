@@ -2,7 +2,7 @@
 
 - 🖥️ I'm a language agnostic full-stack web developer
 - 🔭 I'm currently working on Svolte, a component data visualizer and time-travel debugging tool for Svelte applications
-- ⚡ I love cooking 🍲, solving puzzles 🧩, reading South American Literature 📚, and cultivating plants in my garden 🪴
+- 🍲 I love cooking, 🧩 solving puzzles, 📚 reading South American novels, and 🪴 cultivating plants in my garden.
 <br/>
 
 ![Animated GIF-downsized_large](https://media.giphy.com/media/451shsqh5nJ9UqDElR/giphy.gif)
