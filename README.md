@@ -5,6 +5,8 @@
 - 🧩 I love solving puzzles, 📚 reading South American Literature, and 🪴 cultivating plants in my garden 
 <br/>
 
+![Animated GIF-downsized_large](https://media.giphy.com/media/451shsqh5nJ9UqDElR/giphy.gif)
+
 ## 📱 Technologies <hr/>
 
 ![Svelte](https://img.shields.io/badge/Svelte-000000?style=for-the-badge&logo=svelte&logoColor=white)
